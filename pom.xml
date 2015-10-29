@@ -33,7 +33,7 @@
   </modules>
 
     <scm>
-        <connection>scm:git:https://RUSSIA\\\\SaubanovaR:RedShort56@github.com/Ruzilya/first_repo/master</connection>
+        <connection>scm:git:https://RUSSIA\\\\SaubanovaR:RedShort56@github.com/Ruzilya/first_repo</connection>
     </scm>
 
     <build>
