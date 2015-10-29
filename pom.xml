@@ -4,7 +4,7 @@
 
   <groupId>com.byteslounge.main</groupId>
   <artifactId>com-byteslounge-main</artifactId>
-  <version>1.1.0-SNAPSHOT</version>
+  <version>1.1.0</version>
   <packaging>pom</packaging>
 
   <name>com-byteslounge-main</name>
@@ -33,8 +33,9 @@
   </modules>
 
     <scm>
-        <connection>scm:git:https://RUSSIA\\\\SaubanovaR:RedShort56@github.com/Ruzilya/first_repo</connection>
-    </scm>
+        <connection>scm:git:https://Ruzilya:101092Ruz@github.com/Ruzilya/first_repo</connection>
+      <tag>com-byteslounge-main-1.1.0</tag>
+  </scm>
 
     <build>
         <plugins>
